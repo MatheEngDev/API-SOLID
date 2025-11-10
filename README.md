@@ -1,9 +1,7 @@
 
 # API-SOLID
 desenvolvendo uma API com os conceitos SOLID | DDD | clean code | bancos: postgresql e alguns outros conceitos que irei acresencentando ao longo do tempo
-=======
-=======
->>>>>>> ed78745558e9245478b38f8b90ab3aeec6de781e
+
 # app
 
 GympPass style app.
@@ -39,9 +37,6 @@ GympPass style app.
  - [] a senha do usuario precisa estar criptografada
  - [] os dados da aplicação precisa, estar persistidos em um banco postgreSQL;
  - [] todas listas de daods precisam estar paginadas com 20 itens por pagina;
-<<<<<<< HEAD
  - [] o usuário deve ser identificado por um JWT (JSON Web Token)
->>>>>>> ed78745 (primeiro commit :docs:)
-=======
- - [] o usuário deve ser identificado por um JWT (JSON Web Token)
->>>>>>> ed78745558e9245478b38f8b90ab3aeec6de781e
+
+
