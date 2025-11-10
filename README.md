@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # API-SOLID
 desenvolvendo uma API com os conceitos SOLID | DDD | clean code | bancos: postgresql e alguns outros conceitos que irei acresencentando ao longo do tempo
 =======
